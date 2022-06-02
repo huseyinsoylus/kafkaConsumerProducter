@@ -1,5 +1,5 @@
 # License notice for Apache Kafka 
 
 ```
-Apache 2.0 Licence.
+Apache 2.0 Licence..
 ```
