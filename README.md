@@ -97,4 +97,8 @@ Bundan sonra yapmanız gereken bu dosyayı hangi dizine kaydettiyseniz 2. ve 3. 
 
 #### Umarım kafka konusunda bir nebze fikir edinebilirsiniz. Şimdiden iyi çalışmalar.
 
-### Marmara Üniversitesi Teknoloji Fakültesi - Bilgisayar Mühendisliği Hüseyin Soylu
+### Marmara Üniversitesi&#x20;
+
+### Teknoloji Fakültesi - Bilgisayar Mühendisliği
+
+### Hüseyin Soylu
